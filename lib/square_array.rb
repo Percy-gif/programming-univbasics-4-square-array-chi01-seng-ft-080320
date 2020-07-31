@@ -1,11 +1,11 @@
   
 
 
-def square_array(numbers)
+def square_array(elements)
   count = 0
   
-    while count < numbers.length 
-       numbers**2 << 
+    while count < elements.length 
+       elements**2 << array
         count += 1
     end
 end
